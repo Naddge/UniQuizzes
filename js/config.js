@@ -24,6 +24,7 @@ var customDescription = "Give a star on Github"
 // FILES
 var jsonFolder = "json" // json folder where to load your json files
 var jsonFiles = { // load other quizzes
+    "so12025.json": "SO1 2025",
     "so12024.json": "SO1 2024",
     "so1.json": "SO1",
     "so2.json": "SO2",
